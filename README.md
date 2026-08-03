@@ -1,8 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Sunny+Gupta;Aspiring+AI+%26+ML+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+DSA)](https://git.io/typing-svg)
-# Hi 👋, I'm Sunny Gupta
-
-## 🚀 Aspiring AI & ML Engineer
-
 I'm a B.Tech CSE (AI & ML) student passionate about
 
 - Java

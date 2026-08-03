@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Sunny+Gupta;Aspiring+AI+%26+ML+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+DSA)](https://git.io/typing-svg)
 I'm a B.Tech CSE (AI & ML) student passionate about
 
+
 - Java
 - Python
 - Machine Learning
@@ -64,6 +65,29 @@ Project Management Tool
 AI Assistant
 
 ---
+## 💻 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,nodejs,express,mongodb,mysql,git,github,vscode,aws" />
+</p>
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Sunny2105&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sunny2105&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny2105&layout=compact&theme=tokyonight)
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Sunny2105&theme=tokyo-night)
+
+![](https://komarev.com/ghpvc/?username=Sunny2105&color=blue)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Sunny2105&theme=algolia)
 
 ## 📫 Contact
 

@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi 👋, I'm Sunny Gupta
 
-<!--
-**Sunny2105/Sunny2105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring AI & ML Engineer
 
-Here are some ideas to get you started:
+I'm a B.Tech CSE (AI & ML) student passionate about
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Python
+- Machine Learning
+- Web Development
+- DSA
+
+---
+
+## 🚀 Languages
+
+- Java
+- Python
+- JavaScript
+- SQL
+
+---
+
+## 💻 Frontend
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## ⚙ Backend
+
+- Node.js
+- Express.js
+
+---
+
+## 🗄 Database
+
+- MongoDB
+- MySQL
+
+---
+
+## 📚 Currently Learning
+
+- AWS Cloud
+- Machine Learning
+- Data Structures
+- System Design
+
+---
+
+## 🚀 Projects
+
+### LinkLoop
+Social Media Platform
+
+### ShopNest
+E-Commerce Website
+
+### Task-Pulse
+Project Management Tool
+
+### Velora AI
+AI Assistant
+
+---
+
+## 📫 Contact
+
+Email: sunnygupta2127@gmail.com
+
+LinkedIn:
+[www.linkedin.com/in/sunny-gupta-r2105](https://www.linkedin.com/in/sunny-gupta-r2105/)
+
+Portfolio:
+https://stately-wisp-2a1622.netlify.app/
+
+LeetCode:
+[https://leetcode.com/yourusername](https://leetcode.com/u/sunny__21/)

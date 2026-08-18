@@ -374,9 +374,19 @@ Graphs
 # 📈 Contribution Graph
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunny2105&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunny2105&theme=tokyo-night&hide_border=true"/>
+# 🔥 Contribution Streak
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunny2105&theme=tokyonight&hide_border=true"/>
+</p>
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sunny2105/Sunny2105/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---

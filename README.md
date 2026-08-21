@@ -542,8 +542,12 @@ Graphs
 <img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://stately-wisp-2a1622.netlify.app/">
+<a href="https://sunny2105.github.io/About-Me-Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://codolio.com/profile/sunnyygupta/card">
+<img src="https://img.shields.io/badge/Codolio-Visit-000000?style=for-the-badge&logo=codeolio&logoColor=red"/>
 </a>
 
 </p>

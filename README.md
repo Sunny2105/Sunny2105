@@ -1,5 +1,3 @@
-Copy **everything inside this single block** and paste it directly into your `README.md`:
-
 <h1 align="center">Hi 👋, I'm Sunny Gupta</h1>
 
 <h3 align="center">
